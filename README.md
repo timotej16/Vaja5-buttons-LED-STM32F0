@@ -4,6 +4,7 @@ Glede na vašo razvojno ploščico in razširitveno vezje s tipkami, izberite us
 T1: __PB10__, T2:__PB11__, T3:__PB12__ T4:__PB13__, T5:__PB14__, T6:__PB15__, zelena LED: __PC9__, modra LED: __PC8__.
 
 KOMENTAR NA DELOVANJE
+
 Če pritisnemo tipko 1, zelena LED utripa s frekvenco 2 Hz, in sicer 5x.
 
 Če pritisnemo tipko 2, modra LED utripa s frekvenco 2 Hz, in sicer 5x.
